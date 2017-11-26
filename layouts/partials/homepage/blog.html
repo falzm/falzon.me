@@ -1,0 +1,8 @@
+<div class="cell posts">
+	<h2>{{ i18n "latest_blog_posts" }}</h2>
+    <ul>
+    {{ range first 5 (where (where .Site.AllPages "Section" "post") ".Kind" "==" "page") }}
+        <li>{{ .Date.Format "2006-01-02" }} [{{ .Lang }}] <a href="{{ .URL }}">{{ .Title }}</a></li>
+    {{ end }}
+    </ul>
+</div>

@@ -1,0 +1,14 @@
+[about]
+other = "About"
+
+[available_here]
+other = "Available here"
+
+[latest_blog_posts]
+other = "Latest Blog Posts"
+
+[projects]
+other = "Projects"
+
+[resume]
+other = "Résumé"

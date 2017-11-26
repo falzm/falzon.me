@@ -1,0 +1,27 @@
+---
+baseURL: http://falzon.me/
+title: Marc Falzon
+
+metaDataFormat: yaml
+
+params:
+  AuthorName: "Marc Falzon"
+
+useModTimeAsFallback: true
+
+pygmentsCodeFences: true
+
+blackfriday:
+  smartypants: false
+
+disableKinds: [RSS]
+
+defaultContentLanguage: fr
+defaultContentLanguageInSubdir: true
+languages:
+  en:
+    weight: 1
+  fr:
+    weight: 2
+
+# vim: ts=2 sw=2 et

@@ -1,0 +1,28 @@
+{{ partial "header.html" . }}
+
+<body>
+	<div id="container">
+		<header id="header">
+			<h1><a href="">Marc Falzon</a></h1>
+		</header>
+
+		<article id="content">
+			<header>
+				<h1>{{ .Title }}</h1>
+				<p class="pubdate">Published on <time pubdate="pubdate">{{ .PublishDate.Format "January 2, 2006" }}</time>
+                {{ if ne .Lastmod .PublishDate }} (Updated <time pubdate="pubdate">{{ .Lastmod.Format "January 2, 2006" }}</time>){{ end }}</p>
+			</header>
+
+			{{ .Content }}
+		</article>
+	</div>
+
+	{{ if or (.PrevInSection) (.NextInSection) }}<footer id="footer">
+		<ul class="links">
+			<li class="prev">{{ if .PrevInSection }}<a href="{{ .PrevInSection.Permalink }}"><span class="fa fa-chevron-left"></span> {{ .PrevInSection.Title }}</a>{{ end }}</li>
+			<li class="next">{{ if .NextInSection }}<a href="{{ .NextInSection.Permalink }}">{{ .NextInSection.Title }} <span class="fa fa-chevron-right"></span></a>{{ end }}</li>
+		</ul>
+	</footer>{{ end }}
+</body>
+
+{{ partial "footer.html" . }}

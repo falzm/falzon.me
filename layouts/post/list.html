@@ -1,0 +1,20 @@
+{{ partial "header.html" . }}
+
+<body>
+	<div id="container">
+		<header id="header">
+			<h1><a href="">Marc Falzon</a></h1>
+		</header>
+
+		<article id="content">
+        	<h1>Blog</h1>
+            <ul>
+            {{ range where (where .Site.AllPages "Section" "post") ".Kind" "==" "page" }}
+                <li>{{ .Date.Format "2006-01-02" }} [{{ .Lang }}] <a href="{{ .Permalink }}">{{ .Title }}</a></li>
+            {{ end }}
+            </ul>
+		</article>
+	</div>
+</body>
+
+{{ partial "footer.html" . }}

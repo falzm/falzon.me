@@ -1,0 +1,26 @@
+{{ partial "header.html" . }}
+
+<body>
+	<div id="container">
+		<header id="header">
+			<h1>Marc Falzon</h1>
+			<div id="lang">[<a href="/{{ if eq .Lang "en" }}fr{{ else }}en{{ end }}/">{{ if eq .Lang "en" }}fr{{ else }}en{{ end }}</a>]</div>
+		</header>
+
+		<article id="content">
+			<div id="grid">
+				{{ partial "homepage/resume.html" . }}
+
+				{{ partial "homepage/links.html" . }}
+
+				{{ partial "homepage/blog.html" . }}
+
+				{{ partial "homepage/projects.html" . }}
+
+				{{ partial "homepage/publications.html" . }}
+			</div>
+		</article>
+	</div>
+</body>
+
+{{ partial "footer.html" . }}

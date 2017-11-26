@@ -1,0 +1,22 @@
+{{ partial "header.html" . }}
+
+<body>
+	<div id="container">
+		<header id="header">
+			<h1><a href="">Marc Falzon</a></h1>
+		</header>
+
+		<article id="content">
+		    <header>
+                <h1>{{ .Title }}</h1>
+                <p class="pubdate">Last Updated: <time pubdate="pubdate">{{ .Lastmod.Format "January 2, 2006" }}</time></p>
+		    </header>
+
+            <p>[<a href="/{{ if eq .Lang "en" }}fr{{ else }}en{{ end }}/resume/">{{ if eq .Lang "en" }}Version française{{ else }}English version{{ end }}</a>]</p>
+
+            {{ .Content }}
+		</article>
+	</div>
+</body>
+
+{{ partial "footer.html" . }}

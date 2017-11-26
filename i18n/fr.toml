@@ -1,0 +1,14 @@
+[about]
+other = "À propos"
+
+[available_here]
+other = "Disponible ici"
+
+[latest_blog_posts]
+other = "Billets de blog récents"
+
+[projects]
+other = "Projets"
+
+[resume]
+other = "CV"
