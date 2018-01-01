@@ -2,7 +2,7 @@
 title: About Me
 ---
 
-<img src="/img/me.jpg" width="300">
+{{< figure src="/img/me.jpg" width="300" class="about_portrait" >}}
 
 My name is Marc Falzon, I am French and currently live in Paris.
 

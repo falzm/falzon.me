@@ -2,7 +2,7 @@
 title: À propos
 ---
 
-<img src="/img/me.jpg" width="300">
+{{< figure src="/img/me.jpg" width="300" class="about_portrait" >}}
 
 Je m'appelle Marc Falzon, je suis français et je vis actuellement à Paris.
 

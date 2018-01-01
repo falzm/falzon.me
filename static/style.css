@@ -248,3 +248,8 @@ html {
 #links .label {
 	display: none;
 }
+
+figure.about_portrait {
+    float: right;
+    margin-right: 1em;
+}
