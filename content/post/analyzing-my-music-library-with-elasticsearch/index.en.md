@@ -57,7 +57,7 @@ The first step was quite simple: extract the library from iTunes in a file `libr
 
 I've written a quick'n dirty Python script that parses this file in a trivial and sub-optimal way – especially if like me the exported library file is several megabytes long:
 
-<script src="https://gist.github.com/falzm/8036d7838aef560c80cd.js"></script>
+{{< gist "falzm" "8036d7838aef560c80cd" >}}
 
 As you can see, it only keeps a few fields from the library tracks metadata – the ones I've found relevant to my analysis.
 
@@ -191,31 +191,31 @@ First, but that goes without saying: the results obtained are only as good as my
 
 I've used Kibana for the first part of my analysis. When looking up at our indexed documents without any specific query, here is what we can find:
 
-<img src="/img/post/analyzing-my-music-library-with-elasticsearch/Screen-Shot-2015-10-04-at-15-19-36.png" width="800">
+{{< postimg file="Screen-Shot-2015-10-04-at-15-19-36.png" width="800" >}}
 
 I started with a few visualization widgets summarizing trivial stats on my collection:
 
 ### Top 10 artists/bands
 
-<img src="/img/post/analyzing-my-music-library-with-elasticsearch/Screen-Shot-2015-10-02-at-23-30-24.png" width="800">
+{{< postimg file="Screen-Shot-2015-10-02-at-23-30-24.png" width="800" >}}
 
 That one was quite a surprise to me: although I used to listen to a lot of Final Fantasy soundtracks, I didn't expect [Nobuo Uematsu][3] to be the most represented artist in my collection.
 
 ### Distribution per year
 
-<img src="/img/post/analyzing-my-music-library-with-elasticsearch/Screen-Shot-2015-10-04-at-15-22-57.png" width="800">
+{{< postimg file="Screen-Shot-2015-10-04-at-15-22-57.png" width="800" >}}
 
 Not much to say here: I tend to listen to fairly recent music.
 
 ### Top 10 musical genres
 
-<img src="/img/post/analyzing-my-music-library-with-elasticsearch/Screen-Shot-2015-10-04-at-15-24-24.png" width="800">
+{{< postimg file="Screen-Shot-2015-10-04-at-15-24-24.png" width="800" >}}
 
 For what it's worth when trying to classify music into strict genres, the trend is quite clear here: I listen mostly to (movie, video games) soundtracks, Rock and Metal.
 
 ### File kinds
 
-<img src="/img/post/analyzing-my-music-library-with-elasticsearch/Screen-Shot-2015-10-02-at-23-50-43.png" width="800">
+{{< postimg file="Screen-Shot-2015-10-02-at-23-50-43.png" width="800" >}}
 
 Nothing special to say about this either: my music collection is essentially composed of MP3 ripped from original CD, and a few tracks bought in the Apple iTunes store.
 

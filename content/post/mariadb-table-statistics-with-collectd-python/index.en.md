@@ -22,7 +22,7 @@ These statistics provide various fine-grained metrics on user activity and table
 
 Here is my attempt at such a Python module:
 
-<script src="https://gist.github.com/falzm/89db743f2fb7318c286f.js"></script>
+{{< gist "falzm" "89db743f2fb7318c286f" >}}
 
 Requirements:
 
@@ -73,7 +73,7 @@ The module is configurable via a `Module` directive within the `Python` module b
 
 Here is an example of the collected metrics displayed in [Facette](https://facette.io/):
 
-<img src="/img/post/mariadb-table-statistics-with-collectd-python/collectd_mariadb_tablestats.png" width="800">
+{{< postimg file="collectd_mariadb_tablestats.png" width="800" >}}
 
 [0]: https://mariadb.org/
 [1]: https://mariadb.com/kb/en/mariadb/mariadb-vs-mysql-features/

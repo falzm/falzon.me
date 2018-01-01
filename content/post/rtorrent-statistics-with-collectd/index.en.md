@@ -103,7 +103,7 @@ LoadPlugin curl_xml
     
 Restart your `collectd` process, then *ta-daaaa!* The result in [Facette](https://facette.io/):
 
-<img src="/img/post/rtorrent-statistics-with-collectd/rtorrent_facette.png" width="800">
+{{< postimg file="rtorrent_facette.png" width="800" >}}
 
 ## Going further
 
