@@ -13,7 +13,7 @@ keywords:
 
 Disclaimer: this article will be a bit different than my usual technical posts.
 
-It might be a little late to the party, but a recent conversation with a colleague has sparked the need for me to write down my take on the *DevOps* movement started a few years ago, and that is now all the rage.
+I might be a little late to the party, but a recent conversation with a colleague has sparked the need for me to write down my take on the *DevOps* movement started a few years ago, and that is now all the rage.
 
 Unless you've been living under a rock for the past years, if you're working in production IT you've heard about DevOps. Chances are you've probably been described by this term in your job description, and/or the team you're working in. Maybe you've used DevOps *tools*, or even *done* DevOps – used as a verb, "to DevOps". This is the problem right here: there is no official definition, only a vague consensus about the fundamental principles behind it. There is a [Wikipedia page][1] for it, but it doesn't mean that everybody agrees on what that means *in practice*. This is the topic of this post: how I've witnessed DevOps in real life over the past years.
 
