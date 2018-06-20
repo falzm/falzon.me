@@ -26,6 +26,12 @@ lastmod: 2017-09-04
 
 ### Currently: Cloud Architecture & Automation Consultant for D2SI
 
+* Cloud architecture & migration consulting
+* Technical training design & animation (Linux beginner, hands-on introduction to Amazon Web Services, hands-on introduction to Google Cloud, introduction to Docker)
+* Technical writing & editing
+* Open source software development workshops animation
+* Google Professional Cloud Architect Certification
+
 ### 09/2014 - 09/2017: Lead operations engineer at happn
 
 * Design and full implementation of the infrastructure and its industrialization and monitoring
@@ -113,6 +119,7 @@ lastmod: 2017-09-04
 
 ### Trainings/courses
 
+* 2018: Google Professional Cloud Architect certification
 * 2009: ITIL V3 Foundation certification
 * 2008: Network training - RIP, EIGRP, OSPF, BGP4 (Cisco appliances)
 * 2005: Cisco CCNA 1, 2, 3, 4.

@@ -7,7 +7,7 @@ lastmod: 2017-09-04
 
 ## Compétences
 
-* Culture informatique : création et utilisation courante de logiciels libres/Open Source, suivi de l'actualité de la communauté du logiciel libre/open source, veille technologique
+* Culture informatique : création et utilisation courante de logiciels libres/open source, suivi de l'actualité de la communauté du logiciel libre/open source, veille technologique
 * Contributions open source : collectd, syslog-ng, Facette
 * Protocoles réseau : TCP/IP, OSI, 802.3, WLAN, VLAN (bonne maitrise), OSPF, BGP (notions)
 * Protocoles applicatifs : DNS, DHCP, RADIUS, HTTP, SSH, FTP, LDAP, SMTP, IMAP, POP3, Syslog
@@ -25,6 +25,12 @@ lastmod: 2017-09-04
 ## Expériences professionnelles
 
 ### Actuellement : Consultant architecture cloud et automatisation pour D2SI
+
+* Conseil en architecture et migration cloud
+* Conception et animation de formation (Linux débutant, introduction pratique à Amazon Web Services, introduction pratique à Google Cloud, introduction à Docker)
+* Rédaction et relecture technique
+* Animation d'ateliers de développement open source
+* Certification Google Professional Cloud Architect
 
 ### 09/2014 - 09/2017 : Responsable de production pour happn
 
@@ -112,6 +118,7 @@ lastmod: 2017-09-04
 
 ### Formations
 
+* 2018 : Certifications Google Professional Cloud Architect
 * 2009 : Certification ITIL V3 Foundation
 * 2008 : Formation réseau - RIP, EIGRP, OSPF, BGP4 (sur matériel Cisco)
 * 2005 : Certifications Cisco CCNA 1, 2, 3 et 4 obtenues.
