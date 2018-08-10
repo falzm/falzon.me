@@ -28,7 +28,7 @@ lastmod: 2017-09-04
 
 * Conseil en architecture et migration cloud
 * Conception et animation de formation (Linux débutant, introduction pratique à Amazon Web Services, introduction pratique à Google Cloud, introduction à Docker)
-* Rédaction et relecture technique
+* Rédaction et relecture technique (livre blanc Observabilité, introduction au développement de modules HashiCorp Terraform)
 * Animation d'ateliers de développement open source
 * Certification Google Professional Cloud Architect
 

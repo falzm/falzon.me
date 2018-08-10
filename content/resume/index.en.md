@@ -28,7 +28,7 @@ lastmod: 2017-09-04
 
 * Cloud architecture & migration consulting
 * Technical training design & animation (Linux beginner, hands-on introduction to Amazon Web Services, hands-on introduction to Google Cloud, introduction to Docker)
-* Technical writing & editing
+* Technical writing & editing (Observability white paper, HashiCorp Terraform module development introduction)
 * Open source software development workshops animation
 * Google Professional Cloud Architect Certification
 
