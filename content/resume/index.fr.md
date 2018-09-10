@@ -16,15 +16,15 @@ lastmod: 2017-09-04
 * Bases de données : MySQL, PostgreSQL, SQLite, langage SQL (bonne maitrise), Elasticsearch, Cassandra (bases)
 * Gestion de configuration/orchestration : Salt, Puppet, Chef, Mcollective (bonne maitrise)
 * Message-oriented middleware : Protocoles AMQP et MQTT, ZeroMQ, RabbitMQ, Mosquitto (bonne maitrise)
-* Supervision/graphage : Nagios, collectd, Graphite, RRDtool, InfluxDB, Riemann
+* Supervision/graphage : Prometheus, Nagios, collectd, Graphite, RRDtool, InfluxDB, Riemann
 * Stockage de données : NFS, LVM, RAID logiciel sous GNU/Linux (MD)
-* Cloud/Virtualisation : Amazon Web Services, Google Cloud Platform, Docker, VMware ESX, Xen, Linux KVM
-* Équipements serveurs : Dell, HP, IBM
-* Équipements réseaux : Cisco, F5, Juniper, Fortinet. Routage avancé sous Linux et OpenBSD
+* Cloud/Virtualisation : Amazon Web Services, Google Cloud Platform, Kubernetes, Docker, Linux KVM
 
 ## Expériences professionnelles
 
-### Actuellement : Consultant architecture cloud et automatisation pour D2SI
+### Actuellement : Ingénieur système pour Exoscale
+
+### 09/2017 - 08/2018 : Consultant architecture cloud et automatisation pour D2SI
 
 * Conseil en architecture et migration cloud
 * Conception et animation de formation (Linux débutant, introduction pratique à Amazon Web Services, introduction pratique à Google Cloud, introduction à Docker)
