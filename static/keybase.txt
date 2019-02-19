@@ -4,62 +4,49 @@ https://keybase.io/falzm
 
 I hereby claim:
 
-  * I am an admin of http://falzon.me
+  * I am an admin of https://falzon.me
   * I am falzm (https://keybase.io/falzm) on keybase.
-  * I have a public key with fingerprint 6B68 89F2 369F 4475 359B  0D7A 7351 A70D F561 57A9
+  * I have a public key ASDuhM0ikKuLH23Oc2gADrFXYUpOzEiuUSfRAFg636NCMQo
 
-To claim this, I am signing this object:
+To do so, I am signing this object:
 
 {
-    "body": {
-        "key": {
-            "fingerprint": "6b6889f2369f4475359b0d7a7351a70df56157a9",
-            "host": "keybase.io",
-            "key_id": "7351a70df56157a9",
-            "uid": "656b29b70431dab20483b68a928cd900",
-            "username": "falzm"
-        },
-        "service": {
-            "hostname": "falzon.me",
-            "protocol": "http:"
-        },
-        "type": "web_service_binding",
-        "version": 1
+  "body": {
+    "key": {
+      "eldest_kid": "0120ee84cd2290ab8b1f6dce7368000eb157614a4ecc48ae5127d100583adfa342310a",
+      "host": "keybase.io",
+      "kid": "0120ee84cd2290ab8b1f6dce7368000eb157614a4ecc48ae5127d100583adfa342310a",
+      "uid": "656b29b70431dab20483b68a928cd900",
+      "username": "falzm"
     },
-    "ctime": 1413453705,
-    "expire_in": 157680000,
-    "prev": "22b08fc926f3eadcf684cf9083954c1aed8314bd0ad0d7498c0c2f2fe812ae63",
-    "seqno": 4,
-    "tag": "signature"
+    "merkle_root": {
+      "ctime": 1550578659,
+      "hash": "9bed4702364cbeb74237b2bae8bae91bfbe51675b299b7717a543dc582c1bddf8720ac37cf75cc53e028e5e2c7b44dd0893baceb525ebf464cd75bb66284fee4",
+      "hash_meta": "77e3bf4278eedd5ef27ad0c74257fbc0100ea44cc2a68ee222835f3ddd40d155",
+      "seqno": 4791168
+    },
+    "service": {
+      "entropy": "OtlbpljqzEQWasoVdID9LywQ",
+      "hostname": "falzon.me",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "3.0.0"
+  },
+  "ctime": 1550578685,
+  "expire_in": 504576000,
+  "prev": "e2e59778f125a6b49686874f648f2aa349877f958903572fedcbba57abe1d493",
+  "seqno": 18,
+  "tag": "signature"
 }
 
-with the aforementioned key, yielding the PGP signature:
+which yields the signature:
 
------BEGIN PGP MESSAGE-----
-Version: GnuPG/MacGPG2 v2.0.22 (Darwin)
-
-owGbwMvMwMRYHLic92ti+ErG0wfeJDGE2E/vr1ZKyk+pVLKqVspOBVNpmXnpqUUF
-RZl5JUpWSmZJZhYWlmlGxmaWaSYm5qbGppZJBinmiebGpoaJ5gYpaaZmhqbmiZZK
-OkoZ+cUgHUBjkhKLU/Uy84FiQE58ZgpQFIv6UrCEmalZkpFlkrmBibFhSmKSkYGJ
-hTHQzkRLI4vkFEsDA5DC4tSivMTcVKDqtMScqlylWh0loFBZZnIqyMEge5Gk8/P0
-gGwdpYKi/JL85PwcoHBGSUmBFUhXSWUBSFl5alI81ID4pMy8FKCPgRrKUouKM/Pz
-lKwMgSqTSzJBJhqaGBqbmBqbG5jqKKVWFGQWpcZnglSYmptZGAAByJrUMqCRRkZJ
-BhZpyZZGZmnGqYkpyWlmFibJaZYGFsaWpibJhompKRbGhiZJKQaJKcDgM7G0SDZI
-NkozSku1MDRKTDUzVgJ5qTAvX8nKBOjMxHSgkcWZ6XmJJaVFqUq1XJ1MMiwMjEwM
-bKxMoEhj4OIUgEVljzP//0TTwDmhj4LYN/J93b63dVLaJWNrK9U+j2u+KpNM4lU+
-qxtOuBJVVBf6+cY+XYW6FI/MpSuEsnPsZj7YoJbMKt8qMEHq9iHGqMcKhlLeX+L3
-VavFrBN8/X72wkKBp7fmPXfh0Lz/79je5is+E04uDa+ec8mvJ+uIbb/dq2fcc9bu
-kFWqi1/G+j7qu2RU+f0gpWT3ziz3pLNbJu45bqfr+lBv2eeQYOGVr3Vivjaltvc8
-/69wYc+nDZdOdydxMJoaRDmtfXyFp4/HxdWmwu58/qkGS56JHw/PNeFuf3lmD9c3
-oaqoz+E7ss4vdk5nsW3wilG+/n5ddtBtvSmPrxw1mdC9eJplU0lqlnj4bNMCoa5i
-8xO1aw+z1n6PKPB61OOxdsv3wmKzRK7pgjETk4xW6q7cq/Am+KKNmrXf1Kn1LBLx
-K98wJ9nt/VdVaZx8t6VKsGjjXJXtN26zpbzhuh2dE7jqrmsa+9U7tXt3OWVuuM3C
-M8tT4+CS9ny7WwK/Fn+1ntZ2sGt59kXHKxMn8R44Mi/hiYvp6v9ViTssVU4u639q
-fJF33QqO7yxcHXKe/C1vrUWE/EqWP3K3yFJ2+XNYhWeL/611UsWCf0XWTt112VYx
-6GBaW9pVrRL9EqVYyVu+b+ZMCpTkcv0+O2z/GY2SZB++lM2zn/DktfBem53idK/s
-kF+S3P8NAnIeMbpP3tg+qDAzVVhRanv+2RkA
-=VMBq
------END PGP MESSAGE-----
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg7oTNIpCrix9tznNoAA6xV2FKTsxIrlEn0QBYOt+jQjEKp3BheWxvYWTESpcCEsQg4uWXePElprSWhodPZI8qo0mHf5WJA1cv7cu6V6vh1JPEINY43l4l9UlSaU/Qfuixk80rYNIhLSKqptj10Sh1AZl0AgHCo3NpZ8RABgJ0GQbpcE2VCEVAlOC84QiiYkqnc/i0D3A7Kjk61IKAU/tgJAGunoo3NdDj4R8KMGx46w+ejKNJQ93wmijKB6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIGSbNURvZJvHIH6Yiqh2yMLXXIdNmg6RarJ+XV9zl0Aio3RhZ80CAqd2ZXJzaW9uAQ==
 
 And finally, I am proving ownership of this host by posting or
 appending to this document.
@@ -67,4 +54,3 @@ appending to this document.
 View my publicly-auditable identity here: https://keybase.io/falzm
 
 ==================================================================
-
