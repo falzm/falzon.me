@@ -1,6 +1,6 @@
 ---
 title: Résumé
-lastmod: 2017-09-04
+lastmod: 2019-07-04
 ---
 
 # Information Technology Systems and Operations Engineer
@@ -14,15 +14,27 @@ lastmod: 2017-09-04
 * Programming languages: Bash scripting (strong knowledge), C, Go, Python, AWK (good knowledge), Ruby (basic knowledge)
 * Operating systems: GNU/Linux Debian/Ubuntu/Gentoo/Arch Linux (strong knowledge), OpenBSD, FreeBSD, Mac OS X (good knowledge)
 * Databases: SQL (good knowledge), MySQL, PostgreSQL, SQLite (good knowledge), Elasticsearch, Cassandra (basic knowledge)
-* Configuration management/automation: Salt, Puppet, Chef, Mcollective (good knowledge)
+* Configuration management/automation: Terraform, Packer, Ansible, Salt, Puppet, Chef, Mcollective (good knowledge)
 * Message-oriented middleware: AMQP/MQTT Protocols, ZeroMQ, RabbitMQ, Mosquitto (good knowledge)
 * Monitoring/metering: Prometheus, Nagios, Collectd, Graphite, RRDtool, InfluxDB, Riemann
 * Data storage: NFS, LVM, software RAID with GNU/Linux (MD)
-* Cloud/Virtualization: Amazon Web Services, Google Cloud Platform, Kubernetes, Docker, Linux KVM
+* Cloud/Virtualization: Exoscale, Amazon Web Services, Google Cloud Platform, Kubernetes, Docker, Linux KVM
 
 ## Experience
 
-### Currently: System engineer at Exoscale
+### 09/2018 - currently: System engineer at Exoscale
+
+* SDN (Software Defined Networking) features implementation
+* Hypervisor-local agent features implementation
+* CLI tool features implementation/maintenance
+* Terraform provider features implementation/maintenance
+* Packer post-process features implementation/maintenance
+* Go/Python language bindings library implementation/maintenance
+* Aplications migration to Kubernetes
+* Documentation and tech blog articles writing
+* Features/products definition
+* Roadmap management
+* Client support
 
 ### 09/2017 - 08/2018: Cloud Architecture & Automation Consultant at D2SI
 

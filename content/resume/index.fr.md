@@ -1,6 +1,6 @@
 ---
 title: CV
-lastmod: 2017-09-04
+lastmod: 2019-07-04
 ---
 
 # Ingénieur en informatique et systèmes d'information
@@ -14,15 +14,27 @@ lastmod: 2017-09-04
 * Langages de programmation : Bash (maitrisé), C, Go, Python, AWK (bonne maitrise), Ruby (bases)
 * Systèmes d'exploitation : GNU/Linux Debian/Ubuntu/Gentoo/Arch Linux (maitrisé), OpenBSD, FreeBSD, Mac OS X (bonne maitrise)
 * Bases de données : MySQL, PostgreSQL, SQLite, langage SQL (bonne maitrise), Elasticsearch, Cassandra (bases)
-* Gestion de configuration/orchestration : Salt, Puppet, Chef, Mcollective (bonne maitrise)
+* Gestion de configuration/orchestration : Terraform, Packer, Ansible, Salt, Puppet, Chef, Mcollective (bonne maitrise)
 * Message-oriented middleware : Protocoles AMQP et MQTT, ZeroMQ, RabbitMQ, Mosquitto (bonne maitrise)
 * Supervision/graphage : Prometheus, Nagios, collectd, Graphite, RRDtool, InfluxDB, Riemann
 * Stockage de données : NFS, LVM, RAID logiciel sous GNU/Linux (MD)
-* Cloud/Virtualisation : Amazon Web Services, Google Cloud Platform, Kubernetes, Docker, Linux KVM
+* Cloud/Virtualisation : Exoscale, Amazon Web Services, Google Cloud Platform, Kubernetes, Docker, Linux KVM
 
 ## Expériences professionnelles
 
-### Actuellement : Ingénieur système pour Exoscale
+### 09/2018 - actuellement : Ingénieur système pour Exoscale
+
+* Implémentation de fonctionnalités SDN (Software Defined Networking)
+* Implémentation de fonctionnalité au niveau agent hyperviseur
+* Implémentation de fonctionnalités/maintenance outil CLI
+* Implémentation de fonctionnalités/maintenance provider Terraform
+* Implémentation de fonctionnalités/maintenance post-processor Packer
+* Implémentation de fonctionnalités/maintenance bibliothèque pour langages Go et Python
+* Migration d'applications avec Kubernetes
+* Rédaction de documentation et articles de blog techniques
+* Définition de fonctionnalités/produits
+* Gestion de la feuille de route
+* Support client
 
 ### 09/2017 - 08/2018 : Consultant architecture cloud et automatisation pour D2SI
 
@@ -118,10 +130,10 @@ lastmod: 2017-09-04
 
 ### Formations
 
-* 2018 : Certifications Google Professional Cloud Architect
+* 2018 : Certification Google Professional Cloud Architect
 * 2009 : Certification ITIL V3 Foundation
 * 2008 : Formation réseau - RIP, EIGRP, OSPF, BGP4 (sur matériel Cisco)
-* 2005 : Certifications Cisco CCNA 1, 2, 3 et 4 obtenues.
+* 2005 : Certifications Cisco CCNA 1-4.
 
 ## Langues
 
