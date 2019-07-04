@@ -14,7 +14,7 @@ pygmentsCodeFences: true
 blackfriday:
   smartypants: false
 
-disableKinds: [sitemap]
+disableKinds: ["sitemap", "taxonomy", "taxonomyTerm"]
 
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: true

@@ -1,5 +1,5 @@
 <figure>
-    <a href="{{ .Page.URL }}{{ .Get "file" }}">
-            <img src="{{ .Page.URL }}{{ .Get "file" }}" {{ with .Get "width" }}width="{{.}}" {{ end }}{{ with .Get "height" }}height="{{.}}" {{ end }}/>
+    <a href="{{ .Page.RelPermalink }}{{ .Get "file" }}">
+            <img src="{{ .Page.RelPermalink }}{{ .Get "file" }}" {{ with .Get "width" }}width="{{.}}" {{ end }}{{ with .Get "height" }}height="{{.}}" {{ end }}/>
     </a>
 </figure>
