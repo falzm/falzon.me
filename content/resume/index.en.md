@@ -24,8 +24,8 @@ lastmod: 2019-07-04
 
 ### 09/2018 - currently: System engineer at Exoscale
 
-* SDN (Software Defined Networking) features implementation
-* Hypervisor-local agent features implementation
+* SDN (Software Defined Networking) features implementation/maintenance
+* Hypervisor-local agent features implementation/maintenance
 * CLI tool features implementation/maintenance
 * Terraform provider features implementation/maintenance
 * Packer post-process features implementation/maintenance

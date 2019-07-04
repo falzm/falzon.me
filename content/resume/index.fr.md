@@ -24,8 +24,8 @@ lastmod: 2019-07-04
 
 ### 09/2018 - actuellement : Ingénieur système pour Exoscale
 
-* Implémentation de fonctionnalités SDN (Software Defined Networking)
-* Implémentation de fonctionnalité au niveau agent hyperviseur
+* Implémentation de fonctionnalités/maintenance SDN (Software Defined Networking)
+* Implémentation de fonctionnalités/maintenance des agents locaux aux hyperviseur
 * Implémentation de fonctionnalités/maintenance outil CLI
 * Implémentation de fonctionnalités/maintenance provider Terraform
 * Implémentation de fonctionnalités/maintenance post-processor Packer
