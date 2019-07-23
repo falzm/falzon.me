@@ -1,6 +1,6 @@
 ---
 title: Résumé
-lastmod: 2019-07-04
+lastmod: 2019-07-23
 ---
 
 # Information Technology Systems and Operations Engineer
@@ -22,7 +22,7 @@ lastmod: 2019-07-04
 
 ## Experience
 
-### 09/2018 - currently: System engineer at Exoscale
+### 09/2018 - currently: System engineer at Exoscale (via Cobalt Core)
 
 * SDN (Software Defined Networking) features implementation/maintenance
 * Hypervisor-local agent features implementation/maintenance
@@ -35,6 +35,13 @@ lastmod: 2019-07-04
 * Features/products definition
 * Roadmap management
 * Client support
+
+### 10/2018 - 12/2018 : Cloud Architecture & Automation Consultant for Passions App (via Cobalt Core)
+
+* Cloud architecture & migration consulting (AWS)
+* Infrastructure Automation improvement projects (Terraform)
+
+### 09/2018 : [Cobalt Core](https://cobaltco.re/en) company establishment
 
 ### 09/2017 - 08/2018: Cloud Architecture & Automation Consultant at D2SI
 

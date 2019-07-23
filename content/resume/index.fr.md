@@ -1,6 +1,6 @@
 ---
 title: CV
-lastmod: 2019-07-04
+lastmod: 2019-07-23
 ---
 
 # Ingénieur en informatique et systèmes d'information
@@ -22,7 +22,7 @@ lastmod: 2019-07-04
 
 ## Expériences professionnelles
 
-### 09/2018 - actuellement : Ingénieur système pour Exoscale
+### 09/2018 - actuellement : Ingénieur système pour Exoscale (via Cobalt Core)
 
 * Implémentation de fonctionnalités/maintenance SDN (Software Defined Networking)
 * Implémentation de fonctionnalités/maintenance des agents locaux aux hyperviseur
@@ -35,6 +35,13 @@ lastmod: 2019-07-04
 * Définition de fonctionnalités/produits
 * Gestion de la feuille de route
 * Support client
+
+### 10/2018 - 12/2018 : Consultant architecture cloud et automatisation pour Passions App (via Cobalt Core)
+
+* Conseil en architecture et migration cloud (AWS)
+* Réalisation de projets en automatisation (Terraform)
+
+### 09/2018 : Constitution de la société [Cobalt Core](https://cobaltco.re/fr)
 
 ### 09/2017 - 08/2018 : Consultant architecture cloud et automatisation pour D2SI
 
