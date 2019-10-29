@@ -27,8 +27,9 @@ lastmod: 2019-07-23
 * Implémentation de fonctionnalités/maintenance SDN (Software Defined Networking)
 * Implémentation de fonctionnalités/maintenance des agents locaux aux hyperviseur
 * Implémentation de fonctionnalités/maintenance outil CLI
-* Implémentation de fonctionnalités/maintenance provider Terraform
-* Implémentation de fonctionnalités/maintenance post-processor Packer
+* Implémentation de fonctionnalités/maintenance *provider* HashiCorp Terraform
+* Implémentation de fonctionnalités/maintenance *plugin backend* HashiCorp Vault
+* Implémentation de fonctionnalités/maintenance *post-processor* HashiCorp Packer
 * Implémentation de fonctionnalités/maintenance bibliothèque pour langages Go et Python
 * Migration d'applications avec Kubernetes
 * Rédaction de documentation et articles de blog techniques

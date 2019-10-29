@@ -27,8 +27,9 @@ lastmod: 2019-07-23
 * SDN (Software Defined Networking) features implementation/maintenance
 * Hypervisor-local agent features implementation/maintenance
 * CLI tool features implementation/maintenance
-* Terraform provider features implementation/maintenance
-* Packer post-process features implementation/maintenance
+* HashiCorp Terraform *provider* implementation/maintenance
+* HashiCorp Vault *backend plugin* implementation/maintenance
+* HashiCorp Packer *post-processor* implementation/maintenance
 * Go/Python language bindings library implementation/maintenance
 * Aplications migration to Kubernetes
 * Documentation and tech blog articles writing
