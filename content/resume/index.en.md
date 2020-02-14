@@ -11,14 +11,14 @@ lastmod: 2019-07-23
 * Open source contributions: collectd, syslog-ng, Facette
 * Networking protocols: TCP/IP, OSI, 802.3, WLAN, VLAN (good knowledge), OSPF, BGP (basic knowledge)
 * Application protocols: DNS, DHCP, RADIUS, HTTP(S), SSH, FTP, LDAP, SMTP, IMAP, POP3
-* Programming languages: Bash scripting (strong knowledge), C, Go, Python, AWK (good knowledge), Ruby (basic knowledge)
+* Programming languages: Bash scripting (strong knowledge), C, Go, Python, AWK (good knowledge)
 * Operating systems: GNU/Linux Debian/Ubuntu/Gentoo/Arch Linux (strong knowledge), OpenBSD, FreeBSD, Mac OS X (good knowledge)
 * Databases: SQL (good knowledge), MySQL, PostgreSQL, SQLite (good knowledge), Elasticsearch, Cassandra (basic knowledge)
 * Configuration management/automation: Terraform, Packer, Ansible, Salt, Puppet, Chef, Mcollective (good knowledge)
 * Message-oriented middleware: AMQP/MQTT Protocols, ZeroMQ, RabbitMQ, Mosquitto (good knowledge)
 * Monitoring/metering: Prometheus, Nagios, Collectd, Graphite, RRDtool, InfluxDB, Riemann
 * Data storage: NFS, LVM, software RAID with GNU/Linux (MD)
-* Cloud/Virtualization: Exoscale, Amazon Web Services, Google Cloud Platform, Kubernetes, Docker, Linux KVM
+* Cloud/Virtualization: Amazon Web Services, Google Cloud Platform, Exoscale, Kubernetes, Docker, Linux KVM
 
 ## Experience
 
@@ -31,7 +31,7 @@ lastmod: 2019-07-23
 * HashiCorp Vault *backend plugin* implementation/maintenance
 * HashiCorp Packer *post-processor* implementation/maintenance
 * Go/Python language bindings library implementation/maintenance
-* Aplications migration to Kubernetes
+* Applications migration to Kubernetes
 * Documentation and tech blog articles writing
 * Features/products definition
 * Roadmap management
@@ -86,7 +86,7 @@ lastmod: 2019-07-23
 
 * Cisco routers/firewalls setup & administration
 * F5 load-balancers setup & administration
-* Network appliances configuration versionned backup setup
+* Network appliances configuration versioned backup setup
 
 #### Misc
 

@@ -11,21 +11,21 @@ lastmod: 2019-07-23
 * Contributions open source : collectd, syslog-ng, Facette
 * Protocoles réseau : TCP/IP, OSI, 802.3, WLAN, VLAN (bonne maitrise), OSPF, BGP (notions)
 * Protocoles applicatifs : DNS, DHCP, RADIUS, HTTP, SSH, FTP, LDAP, SMTP, IMAP, POP3, Syslog
-* Langages de programmation : Bash (maitrisé), C, Go, Python, AWK (bonne maitrise), Ruby (bases)
+* Langages de programmation : Bash (maitrisé), C, Go, Python, AWK (bonne maitrise)
 * Systèmes d'exploitation : GNU/Linux Debian/Ubuntu/Gentoo/Arch Linux (maitrisé), OpenBSD, FreeBSD, Mac OS X (bonne maitrise)
 * Bases de données : MySQL, PostgreSQL, SQLite, langage SQL (bonne maitrise), Elasticsearch, Cassandra (bases)
 * Gestion de configuration/orchestration : Terraform, Packer, Ansible, Salt, Puppet, Chef, Mcollective (bonne maitrise)
 * Message-oriented middleware : Protocoles AMQP et MQTT, ZeroMQ, RabbitMQ, Mosquitto (bonne maitrise)
 * Supervision/graphage : Prometheus, Nagios, collectd, Graphite, RRDtool, InfluxDB, Riemann
 * Stockage de données : NFS, LVM, RAID logiciel sous GNU/Linux (MD)
-* Cloud/Virtualisation : Exoscale, Amazon Web Services, Google Cloud Platform, Kubernetes, Docker, Linux KVM
+* Cloud/Virtualisation : Amazon Web Services, Google Cloud Platform, Exoscale, Kubernetes, Docker, Linux KVM
 
 ## Expériences professionnelles
 
 ### 09/2018 - actuellement : Ingénieur système pour Exoscale (via Cobalt Core)
 
 * Implémentation de fonctionnalités/maintenance SDN (Software Defined Networking)
-* Implémentation de fonctionnalités/maintenance des agents locaux aux hyperviseur
+* Implémentation de fonctionnalités/maintenance des agents locaux aux hyperviseurs
 * Implémentation de fonctionnalités/maintenance outil CLI
 * Implémentation de fonctionnalités/maintenance *provider* HashiCorp Terraform
 * Implémentation de fonctionnalités/maintenance *plugin backend* HashiCorp Vault
@@ -63,7 +63,7 @@ lastmod: 2019-07-23
 ### 12/2013 - 06/2014 : Ingénieur d'exploitation NOC pour Gandi S.A.S.
 
 * Conception et mise en place d'une solution de supervision de systèmes et de services
-* Maintien en conditions operationnelles de la plateforme
+* Maintien en conditions opérationnelles de la plateforme
 
 ### 03/2013 - 12/2013 : Ingénieur de production pour Cloudwatt
 
