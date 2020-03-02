@@ -114,10 +114,10 @@ lastmod: 2019-07-23
 
 #### Administration de systèmes Linux
 
-* Conception et mise en place d'une plateforme de loghosts à étages
+* Conception et mise en place d'une plateforme de concentrateurs de logs à étages
 * Conception et administration d'une infrastructure DNS multi-site
 * Administration de serveurs frontaux web
-* Conception et réalisation d'une infrastructure d'agrégation de métriques et logs applicatifs (bi-site) et d'une solution de graphage spécilisée
+* Conception et réalisation d'une infrastructure d'agrégation de métriques et logs applicatifs (bi-site) et d'une solution de graphage spécialisée
 * Astreintes système, opérations de nuits, migrations bi-sites
 
 #### Administration de réseaux
