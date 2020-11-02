@@ -139,6 +139,7 @@ lastmod: 2019-07-23
 
 ### Trainings/courses
 
+* 2020: Linux Foundation Kubernetes Administration training (LFS458)
 * 2018: Google Professional Cloud Architect certification
 * 2009: ITIL V3 Foundation certification
 * 2008: Network training - RIP, EIGRP, OSPF, BGP4 (Cisco appliances)

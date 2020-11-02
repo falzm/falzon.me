@@ -138,6 +138,7 @@ lastmod: 2019-07-23
 
 ### Formations
 
+* 2020 : Formation Linux Foundation Kubernetes Administration (LFS458)
 * 2018 : Certification Google Professional Cloud Architect
 * 2009 : Certification ITIL V3 Foundation
 * 2008 : Formation réseau - RIP, EIGRP, OSPF, BGP4 (sur matériel Cisco)
