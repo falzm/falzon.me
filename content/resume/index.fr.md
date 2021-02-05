@@ -29,7 +29,7 @@ lastmod: 2019-07-23
 * Implémentation de fonctionnalités/maintenance outil CLI
 * Implémentation de fonctionnalités/maintenance *provider* HashiCorp Terraform
 * Implémentation de fonctionnalités/maintenance *plugin backend* HashiCorp Vault
-* Implémentation de fonctionnalités/maintenance *post-processor* HashiCorp Packer
+* Implémentation de fonctionnalités/maintenance *builder*/*post-processor* HashiCorp Packer
 * Implémentation de fonctionnalités/maintenance bibliothèque pour langages Go et Python
 * Migration d'applications avec Kubernetes
 * Rédaction de documentation et articles de blog techniques

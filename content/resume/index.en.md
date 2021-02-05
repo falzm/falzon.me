@@ -29,7 +29,7 @@ lastmod: 2019-07-23
 * CLI tool features implementation/maintenance
 * HashiCorp Terraform *provider* implementation/maintenance
 * HashiCorp Vault *backend plugin* implementation/maintenance
-* HashiCorp Packer *post-processor* implementation/maintenance
+* HashiCorp Packer *builder*/*post-processor* implementation/maintenance
 * Go/Python language bindings library implementation/maintenance
 * Applications migration to Kubernetes
 * Documentation and tech blog articles writing
