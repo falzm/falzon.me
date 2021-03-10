@@ -1,0 +1,22 @@
+name: Docker
+
+on: [push]
+#  push:
+#    branches:
+#    - master
+
+jobs:
+  Docker:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: Build Docker image
+      run: |-
+        SHA=$(echo $GITHUB_SHA | cut -c 1-7)
+        echo -n ${{ secrets.GH_TOKEN }} | docker login ghcr.io -u falzm --password-stdin
+        docker build -t ghcr.io/falzm/falzon-me:${SHA} .
+        docker tag ghcr.io/falzm/falzon-me:${SHA} ghcr.io/falzm/falzon-me:latest
+        docker push ghcr.io/falzm/falzon-me:${SHA}
+        docker push ghcr.io/falzm/falzon-me:latest
