@@ -22,7 +22,9 @@ lastmod: 2019-07-23
 
 ## Experience
 
-### 09/2018 - currently: System engineer at Exoscale (via Cobalt Core)
+### 01/2022 - currently: Lead Platform Scale SRE at PayFit
+
+### 09/2018 - 12/2021: System engineer at Exoscale (via Cobalt Core)
 
 * SDN (Software Defined Networking) features implementation/maintenance
 * Hypervisor-local agent features implementation/maintenance

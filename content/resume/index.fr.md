@@ -22,7 +22,9 @@ lastmod: 2019-07-23
 
 ## Expériences professionnelles
 
-### 09/2018 - actuellement : Ingénieur système pour Exoscale (via Cobalt Core)
+### 01/2022 - actuellement : Lead Platform Scale SRE pour PayFit
+
+### 09/2018 - 12/2021 : Ingénieur système pour Exoscale (via Cobalt Core)
 
 * Implémentation de fonctionnalités/maintenance SDN (Software Defined Networking)
 * Implémentation de fonctionnalités/maintenance des agents locaux aux hyperviseurs
