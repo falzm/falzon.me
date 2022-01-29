@@ -2,11 +2,10 @@
 title: About Me
 ---
 
-{{< figure src="/img/me.png" width="300" class="about_portrait" >}}
+My name is Marc Falzon, I am an IT engineer living in France.
 
-My name is Marc Falzon, I am a free-lance IT engineer via the [Cobalt Core][cobaltcore] company.
-
-This is my modest personal website, which features my [résumé][résumé] and links to articles and content I've published over the years.
+On this website, you can find my [résumé][résumé] and links to articles and
+content I've published over the years.
 I also have a [blog][blog] where I occasionally write mosty technical posts.
 
 You can also find my online on:
