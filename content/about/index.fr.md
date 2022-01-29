@@ -4,7 +4,7 @@ title: À propos
 
 Je m'appelle Marc Falzon, je suis ingénieur en informatique.
 
-Sur ce site Internal vous pouvez consulter mon [CV][cv] et les liens vers les
+Sur ce site Internet vous pouvez consulter mon [CV][cv] et les liens vers les
 articles et contenus que j'ai publiés ces dernières années.
 Je tiens également un [blog][blog] sur lequel j'écris à l'occasion sur des
 sujets principalement techniques.
