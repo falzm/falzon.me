@@ -1,0 +1,13 @@
+apiVersion: cert-manager.io/v1
+kind: Certificate
+metadata:
+  name: falzon-me
+  namespace: {{ .Values.namespace }}
+spec:
+  secretName: falzon-me-tls
+  issuerRef:
+    name: letsencrypt
+    kind: ClusterIssuer
+  dnsNames:
+  - falzon.me
+  - www.falzon.me

@@ -1,0 +1,4 @@
+{{- define "falzon-me.labels" }}
+labels:
+  app: {{ .Values.app }}
+{{- end }}

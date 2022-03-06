@@ -1,0 +1,29 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: falzon-me
+  namespace: {{ .Values.namespace }}
+  {{- include "falzon-me.labels" . | indent 2 }}
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: falzon-me
+  template:
+    metadata:
+      {{- include "falzon-me.labels" . | indent 6 }}
+    spec:
+      containers:
+      - name: falzon-me
+        image: ghcr.io/falzm/falzon-me:latest
+        imagePullPolicy: Always
+        ports:
+        - containerPort: 80
+        #
+        resources:
+          requests:
+            memory: "64Mi"
+            cpu: "250m"
+          limits:
+            memory: "128Mi"
+            cpu: "500m"

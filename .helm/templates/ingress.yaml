@@ -1,0 +1,35 @@
+apiVersion: networking.k8s.io/v1
+kind: Ingress
+metadata:
+  name: falzon-me
+  namespace: {{ .Values.namespace }}
+  {{- include "falzon-me.labels" . | indent 2 }}
+  annotations:
+    kubernetes.io/ingress.class: nginx
+spec:
+  tls:
+  - hosts:
+    - falzon.me
+    - www.falzon.me
+    secretName: falzon-me-tls
+  rules:
+  - host: falzon.me
+    http:
+      paths:
+      - path: /
+        pathType: Prefix
+        backend:
+          service:
+            name: falzon-me
+            port:
+              number: 80
+  - host: www.falzon.me
+    http:
+      paths:
+      - path: /
+        pathType: Prefix
+        backend:
+          service:
+            name: falzon-me
+            port:
+              number: 80
