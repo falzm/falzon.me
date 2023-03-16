@@ -4,7 +4,6 @@ on: [push]
 
 env:
   REGISTRY: ghcr.io
-  IMAGE_NAME: ${{ github.repository }}
   SHA: $(echo $GITHUB_SHA | cut -c 1-7)
 
 jobs:
@@ -27,5 +26,5 @@ jobs:
         context: .
         push: true
         tags: |
-          ${{ REGISTRY }}/falzm/falzon-me:${{ SHA }}
-          ${{ REGISTRY }}/falzm/falzon-me:latest
+          ${{ env.REGISTRY }}/falzm/falzon-me:${{ env.SHA }}
+          ${{ env.REGISTRY }}/falzm/falzon-me:latest
