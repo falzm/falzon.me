@@ -1,22 +1,33 @@
 name: Docker
 
 on: [push]
-#  push:
-#    branches:
-#    - master
+
+env:
+  REGISTRY: ghcr.io
 
 jobs:
   Docker:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v3
 
-    - name: Build Docker image
-      run: |-
-        SHA=$(echo $GITHUB_SHA | cut -c 1-7)
-        echo -n ${{ secrets.GH_TOKEN }} | docker login ghcr.io -u falzm --password-stdin
-        docker build -t ghcr.io/falzm/falzon-me:${SHA} .
-        docker tag ghcr.io/falzm/falzon-me:${SHA} ghcr.io/falzm/falzon-me:latest
-        docker push ghcr.io/falzm/falzon-me:${SHA}
-        docker push ghcr.io/falzm/falzon-me:latest
+    - name: Export short commit SHA
+      run: |
+        echo "short_sha=${GITHUB_SHA:0:7}" >> $GITHUB_ENV
+
+    - name: Log in to the Container registry
+      uses: docker/login-action@v2
+      with:
+        registry: ${{ env.REGISTRY }}
+        username: ${{ github.actor }}
+        password: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: Build and push Docker image
+      uses: docker/build-push-action@v4
+      with:
+        context: .
+        push: true
+        tags: |
+          ${{ env.REGISTRY }}/falzm/falzon-me:${{ env.short_sha }}
+          ${{ env.REGISTRY }}/falzm/falzon-me:latest
