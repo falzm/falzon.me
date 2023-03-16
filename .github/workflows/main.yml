@@ -4,7 +4,6 @@ on: [push]
 
 env:
   REGISTRY: ghcr.io
-  SHA: $(echo $GITHUB_SHA | cut -c 1-7)
 
 jobs:
   Docker:
@@ -26,5 +25,5 @@ jobs:
         context: .
         push: true
         tags: |
-          ${{ env.REGISTRY }}/falzm/falzon-me:${{ env.SHA }}
+          ${{ env.REGISTRY }}/falzm/falzon-me:$(echo $GITHUB_SHA | cut -c 1-7)
           ${{ env.REGISTRY }}/falzm/falzon-me:latest
