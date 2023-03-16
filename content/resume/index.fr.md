@@ -1,28 +1,30 @@
 ---
 title: CV
-lastmod: 2019-07-23
+lastmod: 2023-03-16
 ---
 
 # Ingénieur en informatique et systèmes d'information
 
-## Compétences
+## Compétences techniques
 
-* Culture informatique : création et utilisation courante de logiciels libres/open source, suivi de l'actualité de la communauté du logiciel libre/open source, veille technologique
-* Contributions open source : collectd, syslog-ng, Facette
-* Protocoles réseau : TCP/IP, OSI, 802.3, WLAN, VLAN (bonne maitrise), OSPF, BGP (notions)
-* Protocoles applicatifs : DNS, DHCP, RADIUS, HTTP, SSH, FTP, LDAP, SMTP, IMAP, POP3, Syslog
-* Langages de programmation : Bash (maitrisé), C, Go, Python, AWK (bonne maitrise)
-* Systèmes d'exploitation : GNU/Linux Debian/Ubuntu/Gentoo/Arch Linux (maitrisé), OpenBSD, FreeBSD, Mac OS X (bonne maitrise)
-* Bases de données : MySQL, PostgreSQL, SQLite, langage SQL (bonne maitrise), Elasticsearch, Cassandra (bases)
-* Gestion de configuration/orchestration : Terraform, Packer, Ansible, Salt, Puppet, Chef, Mcollective (bonne maitrise)
-* Message-oriented middleware : Protocoles AMQP et MQTT, ZeroMQ, RabbitMQ, Mosquitto (bonne maitrise)
-* Supervision/graphage : Prometheus, Nagios, collectd, Graphite, RRDtool, InfluxDB, Riemann
-* Stockage de données : NFS, LVM, RAID logiciel sous GNU/Linux (MD)
-* Cloud/Virtualisation : Amazon Web Services, Google Cloud Platform, Exoscale, Kubernetes, Docker, Linux KVM
+* Infrastructure *Cloud*: Amazon Web Services, Google Cloud Platform, Exoscale, Kubernetes, Docker/OCI
+* Outillage *Infrastructure-as-Code*: Terraform, Helm
+* Langages de programmation: Go, Python, Rust, Shell scripting (Bash)
+* Outils d'observabilité: Prometheus, Grafana, Datadog
+* Systèmes d'Exploitation: GNU/Linux, macOS
+* Réseau: LAN/routage de base
 
 ## Expériences professionnelles
 
-### 01/2022 - actuellement : Lead Platform Scale SRE pour PayFit
+### 01/2022 - actuellement : Engineering Manager pour PayFit
+
+Engineering management pour différentes équipes :
+
+* Gestion d'équipes
+* Recrutement de collaborateurs
+* Suivi de carrière de collaborateurs
+* Planification de roadmap
+* Mise en place d'un programme *Site Reliability Engineering* afin d'aider les équipes Produit à améliorer la fiabilité de leurs applications et services
 
 ### 09/2018 - 12/2021 : Ingénieur système pour Exoscale (via Cobalt Core)
 

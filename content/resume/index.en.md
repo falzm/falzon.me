@@ -1,28 +1,30 @@
 ---
 title: Résumé
-lastmod: 2019-07-23
+lastmod: 2023-03-16
 ---
 
 # Information Technology Systems and Operations Engineer
 
-## Skills
+## Technical Skills
 
-* IT culture: Frequent usage and regular contributor to free/open source software projects; strong free/open source software community knowledge
-* Open source contributions: collectd, syslog-ng, Facette
-* Networking protocols: TCP/IP, OSI, 802.3, WLAN, VLAN (good knowledge), OSPF, BGP (basic knowledge)
-* Application protocols: DNS, DHCP, RADIUS, HTTP(S), SSH, FTP, LDAP, SMTP, IMAP, POP3
-* Programming languages: Bash scripting (strong knowledge), C, Go, Python, AWK (good knowledge)
-* Operating systems: GNU/Linux Debian/Ubuntu/Gentoo/Arch Linux (strong knowledge), OpenBSD, FreeBSD, Mac OS X (good knowledge)
-* Databases: SQL (good knowledge), MySQL, PostgreSQL, SQLite (good knowledge), Elasticsearch, Cassandra (basic knowledge)
-* Configuration management/automation: Terraform, Packer, Ansible, Salt, Puppet, Chef, Mcollective (good knowledge)
-* Message-oriented middleware: AMQP/MQTT Protocols, ZeroMQ, RabbitMQ, Mosquitto (good knowledge)
-* Monitoring/metering: Prometheus, Nagios, Collectd, Graphite, RRDtool, InfluxDB, Riemann
-* Data storage: NFS, LVM, software RAID with GNU/Linux (MD)
-* Cloud/Virtualization: Amazon Web Services, Google Cloud Platform, Exoscale, Kubernetes, Docker, Linux KVM
+* Cloud infrastructure: Amazon Web Services, Google Cloud Platform, Exoscale, Kubernetes, Docker/OCI
+* Infrastructure-as-Code tooling: Terraform, Helm
+* Software Development languages: Go, Python, Rust, Shell scripting (Bash)
+* Observability tools: Prometheus, Grafana, Datadog
+* Operating Systems: GNU/Linux, macOS
+* Networking: LAN/basic routing theory
 
 ## Experience
 
-### 01/2022 - currently: Lead Platform Scale SRE at PayFit
+### 01/2022 - currently: Engineering Manager at PayFit
+
+Engineering management for various teams:
+
+* Team management
+* Individual collaborators hiring
+* Individual collaborators career management
+* Roadmap planning
+* Bootstrapping of *Site Reliability Engineering* program to help Product teams improve the reliability of their applications and services
 
 ### 09/2018 - 12/2021: System engineer at Exoscale (via Cobalt Core)
 
