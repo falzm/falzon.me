@@ -16,7 +16,12 @@ lastmod: 2023-03-16
 
 ## Expériences professionnelles
 
-### 01/2022 - actuellement : Engineering Manager pour PayFit
+### 09/2023 - actuellement : Senior Platform Engineer pour PayFit
+
+* Développement Go pour composants internes
+* Gestion d'infrastructure pour de composants liés au stackage de données (Terraform, Kubernetes)
+
+### 01/2022 - 09/2023 : Engineering Manager pour PayFit
 
 Engineering management pour différentes équipes :
 

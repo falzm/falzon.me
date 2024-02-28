@@ -16,7 +16,12 @@ lastmod: 2023-03-16
 
 ## Experience
 
-### 01/2022 - currently: Engineering Manager at PayFit
+### 09/2023 - currently: Senior Platform Engineer at PayFit
+
+* Go software development for in-house componments
+* Infrastructure management for data-related managed components (Terraform, Kubernetes)
+
+### 01/2022 - 09/2023: Engineering Manager at PayFit
 
 Engineering management for various teams:
 
