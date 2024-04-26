@@ -19,7 +19,8 @@ lastmod: 2023-03-16
 ### 09/2023 - actuellement : Senior Platform Engineer pour PayFit
 
 * Développement Go pour composants internes
-* Gestion d'infrastructure pour de composants liés au stackage de données (Terraform, Kubernetes)
+* Gestion d'infrastructure pour des composants liés au stockage de données (Terraform, Kubernetes)
+* Support aux équipes Produit pour la gestion et l'amélioration de l'infrastructure utilisée par leurs applications (déploiement, migration, amélioration de la résilience et de la sécurité, optimisation des coûts)
 
 ### 01/2022 - 09/2023 : Engineering Manager pour PayFit
 

@@ -20,6 +20,7 @@ lastmod: 2023-03-16
 
 * Go software development for in-house componments
 * Infrastructure management for data-related managed components (Terraform, Kubernetes)
+* Supporting Product teams to manage and improve the infrastructure used by their applications (deployment, migration, resilience/security improvement, cost efficiency)
 
 ### 01/2022 - 09/2023: Engineering Manager at PayFit
 
